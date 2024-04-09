@@ -4,7 +4,7 @@ Fetch the HAPAG Track and Trace API https://api-portal.hlag.com/#/products/event
 
 ## Install
 
-Copy `.env.example` to `.env` and provide credentials. Create empty `csv` if it doesn't exist yet.
+Copy `.env.example` to `.env` and provide credentials. Create folter `csv` if it doesn't exist yet.
 
 ```shell
 npm install
