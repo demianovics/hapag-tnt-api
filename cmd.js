@@ -97,12 +97,12 @@ const argumentOptions = {
     },
     carrierBookingReference: {
         alias: 'cbr',
-        describe: 'Booking Number',
+        describe: 'Booking Number/Carrier\'s Reference',
         type: 'string',
     },
     equipmentReference: {
         alias: 'er',
-        describe: 'ISO Container Number',
+        describe: 'BIC ISO Container Identification Number',
         type: 'string',
     }
 };
